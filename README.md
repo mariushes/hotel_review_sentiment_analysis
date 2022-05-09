@@ -4,7 +4,7 @@
 
 
 ### code 
-You will find every notebook we used during the project in its rughtful order.
+You will find every notebook we used during the project in its rightful order.
 
 ### data
 in ./data: raw data
