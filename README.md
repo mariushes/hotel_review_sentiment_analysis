@@ -1,4 +1,4 @@
-# data_mining_project
+# Data Mining Project: Hotel Review Sentiment Analysis
 
 ## Folder Structure
 
